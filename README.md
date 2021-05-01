@@ -1,4 +1,4 @@
 # yapayZekaProjem
 Yapay Zeka İle Yüz Tanıma Sistemi
-Poje ekibi
+Proje ekibi
 Şahin Boğa - Yasin Torun
